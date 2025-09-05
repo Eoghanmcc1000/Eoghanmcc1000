@@ -20,7 +20,7 @@ I have **one year of professional experience as a Software Developer** and previ
 ---
 
 ### 🌱 Currently learning 
-- Improving the **accuracy of LLM-based applications** through evaluation, prompt engineering, and retrieval methods.  
+- Currently learning to build intelligent, secure AI-powered workflows—leveraging platforms like Jentic—for scalable, impactful solutions in modern engineering.  
 
 ---
 
