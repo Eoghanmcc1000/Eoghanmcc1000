@@ -14,8 +14,8 @@ I have **one year of professional experience as a Software Developer** and previ
 
 ---
 
-### 🤖 Personal AI Project
-- **AI Travel Agent Assistant** – inspired by my love of travel, I prototyped an assistant that helps guide people around cities.  
+### 🤖 Open Source Contribution
+- **Terminal Bench** – Currently contributing benchmark-hardening tasks for agentic coding evaluation, focusing on designing and validating more robust terminal-based tasks for AI agents. 
 
 ---
 
